@@ -1,4 +1,2 @@
-Click on link below to see working prototype.
-<p>
-<link href="https://playarena1.000webhostapp.com/">
-</p>
+
+<a href="https://playarena1.000webhostapp.com/">Click this to see working prototype.</a>
